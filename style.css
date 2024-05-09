@@ -65,7 +65,7 @@ main {
   text-align: left;
   color: #8C0808;
   text-decoration: none;
-  border: 1px solid #8C0808;
+  border: 1px solid #eaeaea;
   border-radius: 5000000px;
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
